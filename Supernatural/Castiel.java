@@ -63,7 +63,7 @@ public class Castiel extends Supernatural {
         this.Trueform = Trueform;
     }
 
-    public void setCasaco(String Sobretudo){
+    public void setSobretudo(String Sobretudo){
         this.Sobretudo = Sobretudo;
     }
 
